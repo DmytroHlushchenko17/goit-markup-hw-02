@@ -1,0 +1,67 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    color: #212121;
+    background: #fff;
+    background-color: #fafafa;
+    width: 1440px;
+    height: 2060px;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.TopLine {
+    border-bottom: 1px solid #e7e9fc;
+    width: 1440px;
+    height: 72px;
+}
+
+.Logo {
+    width: 115px;
+    height: 24px;
+    border-top: 24px;
+    border-left: 156px;
+}
+
+.MenuNav {
+    width: 261px;
+    height: 24px;
+    border-top: 24px;
+    border-left: 347px;
+}
+.MenuNav, li {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.email {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+    border-top: 24px;
+    border-left: 940px;
+
+}
+.tel {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+    border-top: 24px;
+    border-left: 940px;
+}
