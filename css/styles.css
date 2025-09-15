@@ -163,7 +163,7 @@ a {
     background-color: #404bbf;
 }
 
-.feature-title {
+.feature-banner {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -173,7 +173,7 @@ a {
     color: #2e2f42;
     }
 
-.feature-one-title,h3{
+.feature-title {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -182,7 +182,7 @@ a {
     color: #2e2f42;
 }
 
-.feature-one-text,p {
+.feature-text {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 150%;
@@ -191,10 +191,10 @@ a {
 }
 
 .team {
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 
-.team-title {
+.team-banner {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px; 
@@ -205,17 +205,20 @@ a {
     text-transform: capitalize;
 }
 
-.team-card-one-title,h3 {
+.team-card {
+    background-color: #fff;
+}
+
+.team-title {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    background-color: #fff;
 }
 
-.team-card-one-text,p {
+.team-text {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 150%;
@@ -223,7 +226,7 @@ a {
     color: #434455;
 }
 
-.portfolio-title {
+.portfolio-banner {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -234,7 +237,7 @@ a {
     text-transform: capitalize;
 }
 
-.portfolio-card-one-title,h3 {
+.portfolio-title {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -243,7 +246,7 @@ a {
     color: #2e2f42;
 }
 
-.portfolio-card-one-text,p {
+.portfolio-text {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
