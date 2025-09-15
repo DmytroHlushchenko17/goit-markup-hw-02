@@ -49,7 +49,7 @@ body {
     font-style: normal;
 }
 
-.topline-email {
+.topline-address-inf {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -58,28 +58,11 @@ body {
     color: #434455;
 }
 
-.topline-email:hover {
+.topline-address-inf:hover {
     color: #404bbf;
 }
 
-.topline-email:focus {
-    color: #404bbf;
-}
-
-.topline-tel {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.topline-tel:hover {
-    color: #404bbf;
-}
-
-.topline-tel:focus {
+.topline-address-inf:focus {
     color: #404bbf;
 }
 
