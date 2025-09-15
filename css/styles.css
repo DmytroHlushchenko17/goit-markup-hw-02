@@ -8,19 +8,6 @@ body {
     letter-spacing: 2%;
 }
 
-ul {
-    list-style-type: none;
-}
-
-a {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #434455;
-    text-decoration: underline;
-}
 .topline-logo-web {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -41,7 +28,7 @@ a {
     color: #2e2f42;
 }
 
-.topline-menu-navigator-scroll-one {
+.topline-scroll {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -50,45 +37,11 @@ a {
     color: #2e2f42;    
 }
 
-.topline-menu-navigator-scroll-one:hover {
+.topline-scroll:hover {
     color: #404bbf;
 }
 
-.topline-menu-navigator-scroll-one:focus {
-    color: #404bbf;
-}
-
-.topline-menu-navigator-scroll-two {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.topline-menu-navigator-scroll-two:hover {
-    color: #404bbf;
-}
-
-.topline-menu-navigator-scroll-two:focus {
-    color: #404bbf;
-}
-
-.topline-menu-navigator-scroll-three {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.topline-menu-navigator-scroll-three:hover {
-    color: #404bbf;
-}
-
-.topline-menu-navigator-scroll-three:focus {
+.topline-scroll:focus {
     color: #404bbf;
 }
 
