@@ -120,6 +120,7 @@ body {
 
 .feature-text {
     font-family: "Roboto", sans-serif;
+    font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
@@ -156,6 +157,7 @@ body {
 
 .team-text {
     font-family: "Roboto", sans-serif;
+    font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
